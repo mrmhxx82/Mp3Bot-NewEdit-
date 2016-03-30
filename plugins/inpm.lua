@@ -208,7 +208,7 @@ if to == 'user' or service or is_admin1(msg) and to == "chat" or to == "channel"
 
 	if matches[1] == 'help' and msg.to.type == 'user' or matches[1] == 'pmhelp' and is_admin1(msg) and msg.to.type ~= 'user' then
       	savelog(msg.to.id, name_log.." ["..msg.from.id.."] used pm help")
-		text = "سلام\n\nخوش اومدی به پی وی من\nاینجا میتونی گروهتون گروهتون مدیریت کنی\n\nبرای دریافت گروه به دو آیدی زیر پیام بده\n\n@mohammad_mmb  سودو و برنامه نویس ربات \n\n @mr_mh85 سودو و امور سرور بات"ccccc
+		text = "Khosh Omadid Be Aqa MP3 BOT !\n\nBaraye Ertebat Ba sudo Ha:\n\n@mohammad_mmb sudo and barname nevis \n\n @mr_mh85 sudo and omor server
      	return text
     end
 
