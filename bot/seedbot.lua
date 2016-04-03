@@ -235,6 +235,7 @@ function create_config( )
 	"azan",
 	"aparat",
 	"badwords",
+	"clash",
     },
     sudo_users = {190840223,191790308,144355506},--Sudo users
     moderation = {data = 'data/moderation.json'},
