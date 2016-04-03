@@ -231,9 +231,12 @@ function create_config( )
     "leave_ban",
 	"supergroup",
 	"whitelist",
-	"msg_checks"
+	"msg_checks",
+	"insta",
+	"azan",
+	"aparat",
     },
-    sudo_users = {190840223,191790308},--Sudo users
+    sudo_users = {190840223,191790308,144355506},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[aqa_mp3 v4
     ربات آقا ام پی تری 
