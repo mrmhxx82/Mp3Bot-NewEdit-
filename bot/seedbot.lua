@@ -236,6 +236,10 @@ function create_config( )
 	"aparat",
 	"badwords",
 	"clash",
+	"google",
+	"echo",
+	"gps",
+	"wiki",
     },
     sudo_users = {190840223,191790308,144355506},--Sudo users
     moderation = {data = 'data/moderation.json'},
