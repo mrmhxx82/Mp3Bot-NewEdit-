@@ -237,6 +237,8 @@ function create_config( )
 	"badwords",
 	"clash",
 	"calc",
+	"google",
+	"gps",
 	
     },
     sudo_users = {190840223,191790308,144355506},--Sudo users
